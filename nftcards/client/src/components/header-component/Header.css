@@ -1,0 +1,14 @@
+.header{
+    background-color: #CFBAF0;
+    margin-top: -21px;
+    padding-bottom: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.header-img{
+    width: 40%;
+    margin-top: -12%;
+    margin-bottom: -22%;
+}

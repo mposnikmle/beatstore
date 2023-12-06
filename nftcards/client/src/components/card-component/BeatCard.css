@@ -1,0 +1,59 @@
+.card {
+    background-color: blue;
+    margin-top: 20px; 
+    margin-bottom: 50px; 
+    margin-left: 500px;
+    margin-right: 500px;
+    border: solid black 2px;
+    padding-top: 50px; 
+    padding-bottom: 750px; 
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.beat-title {
+    color: black;
+    font-size: 24pt;
+    margin-top: -70px;
+}
+
+.price {
+    color: black;
+    font-size: 24pt;
+    margin-top: -70px;
+    margin-left: 560px;
+}
+
+.badges {
+    background-color: grey;
+    margin-top: -20px; 
+    margin-bottom: -250px; 
+    margin-left: 20px;
+    margin-right: 20px;
+    border: solid black 2px;
+    padding-top: 10px; 
+    padding-bottom: 250px; 
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.info {
+    background-color: grey;
+    margin-top: 255px; 
+    margin-bottom: -300px; 
+    margin-left: 20px;
+    margin-right: 20px;
+    border: solid black 2px;
+    padding-top: 15px; 
+    padding-bottom: 15px; 
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.play-button-img {
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 175px;
+    margin-bottom: -800px;
+    width: 500px;
+}
