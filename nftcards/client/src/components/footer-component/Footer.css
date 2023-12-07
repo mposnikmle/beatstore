@@ -1,0 +1,32 @@
+.footer{
+    background-color: #CFBAF0;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 7%;
+    padding-top: 10px;
+}
+
+.cards-img{
+    width: 100%;
+    
+}
+
+.search-img{
+    width: 85%;
+    margin-bottom: 10%;
+}
+
+.about-img{
+    width: 100%;
+    margin-bottom: -40%;
+}
+
+.footer-link-main{
+    display: inline-block;
+    width: 12%;
+    
+}
