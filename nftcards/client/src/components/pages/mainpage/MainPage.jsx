@@ -1,6 +1,11 @@
+import BeatCard from "../../card-component/BeatCard";
+import './MainPage.css'
+
 function MainPage(props) {
     return (
-        <><h1>Hello from MainPage</h1></>
+        <div className="main-page">
+            <BeatCard/>
+        </div>
     );
 }
 
